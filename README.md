@@ -1,0 +1,1 @@
+This is the advent of code, a yearly coding challenge hosted at https://adventofcode.com/

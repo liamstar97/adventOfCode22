@@ -1,5 +1,4 @@
 import heapq
-import pandas as pd
 
 
 def calorie_counting() -> list:
